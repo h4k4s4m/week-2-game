@@ -1,8 +1,8 @@
 body{
     background-image: url("../../assets/images/background.jpg");
-    /* height: 100%;
-    width: 100%; */
-}
-body{
     font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    font-size: 54px;
 }
