@@ -1,8 +1,17 @@
 body{
     background-image: url("../../assets/images/background.jpg");
     font-family: 'Indie Flower', cursive;
+    overflow-x: hidden;
 }
-
+.row{
+    margin: 0px;
+}
 h1{
     font-size: 54px;
+}
+.character-card{
+    width: 150px;
+    height: 150px;
+    border: thick solid black;
+    margin: 10px;
 }
